@@ -1,0 +1,30 @@
+{
+    "questions": [
+      {
+        "question": "What does JSON stand for?",
+        "options": ["JavaScript Object Notation", "Java Standard Object Notation", "JSON is not an acronym"],
+        "correctAnswer": "JavaScript Object Notation"
+      },
+      {
+        "question": "Which data format does JSON closely resemble?",
+        "options": ["XML", "CSV", "YAML"],
+        "correctAnswer": "XML"
+      },
+      {
+        "question": "In JavaScript, how is a JSON object accessed?",
+        "options": ["Using dot notation", "Using bracket notation", "Both"],
+        "correctAnswer": "Both"
+      },
+      {
+        "question": "What is the file extension for a JSON file?",
+        "options": [".json", ".js", ".data"],
+        "correctAnswer": ".json"
+      },
+      {
+        "question": "Which programming languages commonly use JSON?",
+        "options": ["JavaScript", "Python", "Java", "All of the above"],
+        "correctAnswer": "All of the above"
+      }
+    ]
+  }
+  

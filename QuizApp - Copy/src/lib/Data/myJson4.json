@@ -1,0 +1,82 @@
+[{
+    "question": "A flashing red traffic light signifies that a driver should do what?",
+    "options":[ "stop","speed up","proceed with caution","honk the horn"],
+    "answer": "stop"
+  }, {
+    "question": "A knish is traditionally stuffed with what filling?",
+    "options":["potato","creamed corn","lemon custard","raspberry jelly"],
+    "answer": "potato"
+  }, {
+    "question": "A pita is a type of what?",
+    "options":["fresh fruit","flat bread","French tart","friend bean dip"],
+    "answer": "flat bread"
+  }, {
+    "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+    "options":[ "landscape","caricature","still life","Impressionism"],
+    "answer": "caricature"
+  }, {
+    "question": "A second-year college student is usually called a what?",
+    "options": ["sophomore","senior","freshman ","junior "],
+    "answer": "sophomore"
+  }, {
+    "question": "A student who earns a J.D. can begin his or her career as a what?",
+    "options":["lawyer","bricklayer","doctor","accountant"],
+    "answer": "lawyer"
+  }, {
+    "question": "A triptych is a work of art that is painted on how many panels?",
+    "options":["two","three","five","eight"],
+     "answer": "three"
+  }, {
+    "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+    "options":["oneself","other people","little made large","hued in green and blue"],
+    "answer": "other people"
+  }, {
+    "question": "According to a popular slogan, what state should people not 'mess with'?",
+    "options":["New York","Texas","Montana","Rhode Island"],
+    "answer": "Texas"
+  }, {
+    "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+    "options":["tuna","laundry","popcorn","coffee"],
+    "answer": "coffee"
+  }, {
+    "question": "According to folklore, the 'jackalope' is an antlered version of what animal?",
+    "options":[ "chicken","rabbit","moose","snake"],
+    "answer": "rabbit"
+  }, {
+    "question": "According to Greek mythology, who was Apollo's twin sister?",
+    "options":["Aphrodite","Artemis","Venus","Athena"],
+    
+    "answer": "Artemis"
+  }, {
+    "question": "According to legend, if you give someone the 'evil eye' what are you doing?",
+    "options":["cursing them","blessing a child","counting money","passing time"],
+    "answer": "cursing them"
+  }, {
+    "question": "According to legend, in what country are you most likely to meet a leprechaun?",
+    "options":["Ireland","Poland","Greenland","Scotland"],
+     "answer": "Ireland"
+  }, {
+    "question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
+    "options": ["Poodle","Beagle","German shepherd","Labrador retriever"],
+    "answer": "Labrador retriever"
+  }, {
+    "question": "According to the Bible, Moses and Aaron had a sister named what?",
+    "options":["Jochebed","Ruth","Leah","Miriam"],
+    "answer": "Miriam"
+  }, {
+    "question": "According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?",
+    "options":["calm","blue","windy","really big"],
+   "answer": "blue"
+  }, {
+    "question": "According to the Mother Goose nursery rhyme, which child is full of woe?",
+    "options":["Monday's child","Wednesday's child","Thursday's child","Saturday's child"],
+    "answer": "Wednesday's child"
+  }, {
+    "question": "According to the popular saying, what should you do 'when in Rome'?",
+    "options":["watch your wallet","see the Coliseum","as the Romans do","don't drink the water"],
+    "answer": "as the Romans do"
+  }, {
+    "question": "According to the proverb, necessity is the mother of what?",
+    "options":["Invention","Luck","Problems","Procrastination"],
+    "answer": "Invention"
+  }]
